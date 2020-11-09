@@ -189,7 +189,7 @@ function click()
          </form>  
         <td   class="info_bg2">&nbsp;</td>
         <td   class="info_bg2">
-        <form Action="index.php" method="post">
+        <form Action="index.html" method="post">
         <button type="submit">&nbsp;&nbsp;취 소&nbsp;&nbsp;</button>
         </form>
         </td>
